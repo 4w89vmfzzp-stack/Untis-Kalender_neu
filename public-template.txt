@@ -1,0 +1,1 @@
+Diese Datei ist nur eine Anleitung. Die eigentliche stundenplan.ics wird erst nach einem erfolgreichen echten WebUntis-Abruf erzeugt.
